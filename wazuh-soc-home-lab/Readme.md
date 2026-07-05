@@ -47,7 +47,7 @@ curl -sO https://packages.wazuh.com/4.8/wazuh-install.sh
 sudo bash ./wazuh-install.sh -a
 ```
 
-The assistant prints the generated `admin` password at the end — save it, then change it.
+
 
 **2. Endpoint agent (on the monitored VM)**
 
